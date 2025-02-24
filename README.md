@@ -1,6 +1,6 @@
-<h1>Hi there! I am Ioannis Chondros.  </h1>
-<p>A Chemical Engineer from Greece, who wants to become a Data Analyst!</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1> 🚀 Hi there! I am Ioannis Chondros.  </h1>
+<p> I have a Bachelor's degree in Chemical Engineering and I'm involved in Data Analysis & Data System Engineering. </p>
+<h2>  Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
